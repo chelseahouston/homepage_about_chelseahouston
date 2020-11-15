@@ -1,0 +1,110 @@
+<style>
+
+/* COLOR CODES:
+DARK-GREY: #898B8D
+LIGHT-GREY: #ECF7E9
+GREEN: #5CEA9E
+*/
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-position: center;
+  margin-left: 0px;
+}
+
+.nav-bar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 8%;
+  background-color: #898B8D;
+}
+
+img {
+  display: block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+#about {
+  background-color: #ECF7E9;
+  padding-bottom: 400px;
+  width: 100%;
+  padding-top: 10%;
+}
+
+#welcome-section {
+  background-color: white;
+  width: 100%;
+  padding-top: 10%;
+  padding-bottom: 30%;
+}
+
+.nav-list {
+  font-size: 20px;
+  text-align: center;
+  padding-right: 5%;
+}
+
+li {
+  padding: 10px;
+  display: inline;
+}
+
+ul {
+  color: white;
+  list-style-type: none;
+  font-family: 'Syne Mono', monospace;
+}
+
+a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+h1 {
+  color: #5CEA9E;
+  text-align: center;
+  font-family: 'Syne Mono', monospace;
+  font-size: 50px;
+  margin-top: 20px;
+  font-weight: 2;
+}
+
+h2 {
+  font-size: 18px;
+  font-family: monospace;
+  color: black;
+  text-align: center;
+  font-weight: 2;
+  margin-top: -40px;
+}
+
+.about {
+  font-family: monospace;
+  color: black;
+  text-align: left;
+  margin-left: 20%;
+  margin-right: 15%;
+  font-size: 15px;
+}
+
+.section-header {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 3%;
+}
+
+header {
+  color: #5CEA9E;
+  font-family: monospace;
+}
+</style>
